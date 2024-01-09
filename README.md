@@ -1,4 +1,10 @@
 # UW Homework: Hello Android
+
+# Extra Credit Question Write-up
+The developer option that I chose to write about was the show taps option, which shows where the user taps on the screen on both the physical device and the mirrored screen in the virtual developer window on your programming device. I believe that this is a very useful feature as it would give you feedback on where you tap and allow you to understand whether your taps are in the correct position, hitting the right buttons, or if the issue is hardware related or software related. Showing taps allows you to also see whether the app that you created can register your taps on the screen and button, and can help resolve issues such as not registering taps at the edges of the screen which will be helpful for this class.
+
+
+# Assignment Details
 This homework is designed to force you to ensure that the tools are correctly installed on your machine, and that you can:
 
 * run Android Studio
